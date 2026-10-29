@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+outputs/
+downloads/
+*.mp4
+*.mov
